@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.ba83389c8be24f0a7432f0852bc96cdd.js"
+  "precache-manifest.7d245bc2054ee0813e2a2e6f74f34c95.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "plapinp_wallet"});
